@@ -5,13 +5,13 @@
 First, build the docker image:
 
 ```bash
-docker build -t vinted .
+docker build -t shipment .
 ```
 
 And then run the container:
 
 ```bash
-docker run -it vinted
+docker run -it shipment
 ```
 
 Finally, run app:
